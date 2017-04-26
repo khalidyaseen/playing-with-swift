@@ -7,3 +7,4 @@
 * loops
 * switch
 * variadicfunction
+* Enumerations
