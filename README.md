@@ -8,3 +8,5 @@
 * switch
 * variadicfunction
 * Enumerations
+* Structures
+* Classes
