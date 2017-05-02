@@ -10,3 +10,4 @@
 * Enumerations
 * Structures
 * Classes
+* Properties in Swift (Computed Variables with getter and setters , willset and didset)
