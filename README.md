@@ -11,3 +11,4 @@
 * Structures
 * Classes
 * Properties in Swift (Computed Variables with getter and setters , willset and didset)
+* Type Methods and Instance Methods with mutating methods
